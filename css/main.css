@@ -1,0 +1,21 @@
+ 
+.square-wrapper{
+    border: 1px solid red;
+    width: 100%; 
+    padding: 10px;
+}
+.square-red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.square-blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.square-peru{
+    width: 100px;
+    height: 100px;
+    background-color:peru;
+}
